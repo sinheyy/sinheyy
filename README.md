@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/react-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=flat-square&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=flat-square&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css-1572B6.svg?style=flat-square&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/react%20query-FF0000?style=flat-square&logo=react-query&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white">&nbsp
