@@ -1,6 +1,6 @@
 
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=SINHEY%20GitHub&fontColor=eeddff&animation=twinkling&fontSize=40&fontAlign=60&stroke=ddccee&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=SINHEY%20GitHub&fontColor=eeddff&animation=twinkling&fontSize=40&fontAlign=50&stroke=ddccee&strokeWidth=1)
 
 <div align="right">
   
