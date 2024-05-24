@@ -26,7 +26,10 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/react%20query-FF0000?style=flat-square&logo=react-query&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/java-007396?style=flat-squar&logo=java&logoColor=white"> 
+  <br>
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp
 </div>
 
 <br>
