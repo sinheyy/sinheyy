@@ -1,61 +1,29 @@
+### Sinhey
+**Front-end Developer**
 
-<!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=SINHEY%20GitHub&fontColor=eeddff&animation=twinkling&fontSize=40&fontAlign=50&stroke=ddccee&strokeWidth=1)
-
-<div align="right">
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsinheyy&count_bg=%23DDCCEE&title_bg=%23DDCCEE&icon=&icon_color=%23000000&title=view&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
-<!--내용 부분-->
-
-<h3 align="center">🫧 About Me</h3>
-<br>
-
-<div align="center">
-  
-</div>
-
-<h3 align="center">🗃️ Tech Stack</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=flat-square&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css-1572B6.svg?style=flat-square&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/react%20query-FF0000?style=flat-square&logo=react-query&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white">&nbsp
+<div>
+  <img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=20232a" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> &nbsp
-  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp
-</div>
-
-<br>
-
-<h3 align="center">🛠️ Tools </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat-squaree&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">📝 Status </h3>
-<div align="center">
-
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinheyy&hide_title=true&show_icons=true&disable_animations=true&theme=buefy)
-
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinheyy&layout=compact&theme=buefy)
+  <img src="https://img.shields.io/badge/React%20Query-FF0000?style=flat-square&logo=react-query&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vanilla--Extract-FCD34D?style=flat-square" />
   <br>
+  <img src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
 </div>
 
 <br>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=sinheyy&hide_title=true&show_icons=true&bg_color=ffffff&title_color=121212&text_color=121212&icon_color=C4B5FD&border_color=E5E5E5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinheyy&layout=compact&bg_color=ffffff&title_color=121212&text_color=121212&border_color=E5E5E5" />
+</div>
 
 <!--
 **sinheyy/sinheyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
