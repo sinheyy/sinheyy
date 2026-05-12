@@ -20,10 +20,7 @@
 
 <br>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=sinheyy&hide_title=true&show_icons=true&bg_color=ffffff&title_color=121212&text_color=121212&icon_color=C4B5FD&border_color=E5E5E5" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinheyy&layout=compact&bg_color=ffffff&title_color=121212&text_color=121212&border_color=E5E5E5" />
-</div>
+<img width="600" height="300" alt="sinheyy-card" src="https://github.com/user-attachments/assets/8f10174b-9a20-4eaa-8958-67d05f524016" />
 
 <!--
 **sinheyy/sinheyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
